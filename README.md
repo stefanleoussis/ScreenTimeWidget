@@ -1,0 +1,1 @@
+Screen Time Widget displaying Screen Time on the IPhone Lock Screen through the use of Apple's Screen Time API. Currently, Apple does not provide a Screen Time widget for the Lock Screen. Only the Home Screen.
